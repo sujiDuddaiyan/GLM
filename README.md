@@ -1,5 +1,5 @@
 # GLM
-Topic Modelling on the sector of travel and tourism dataset and performing basic preprocessing andvalidation measures using python
+Topic Modelling on the sector of travel and tourism and performing basic preprocessing andvalidation measures using python
 DATASET:Cultural Heritage Ahamedabad:AS on 2018. this dataset was taken from the website data.gov.in
 
 
